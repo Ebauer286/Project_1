@@ -47,8 +47,7 @@ def consolidate_top100_fromcsv_add_year(x):
     # year = str(final_df.iloc[0,0])
     path = r"C:\Users\kevin\bootcamp\Project_1\resources\most_frequent_hot100songs_by_year"
     # final_df.to_csv(os.path.join(path,f"top100_{year}.csv")) #https://stackoverflow.com/questions/22872952/set-file-path-for-to-csv-in-pandas
-    final_df.to_csv(os.path.join(path,
-                                 f"top100_{new_date_list[0]}.csv"))  # https://stackoverflow.com/questions/22872952/set-file-path-for-to-csv-in-pandas
+    final_df.to_csv(os.path.join(path, f"top100_{new_date_list[0]}.csv"))  # https://stackoverflow.com/questions/22872952/set-file-path-for-to-csv-in-pandas
 
     return final_df
 
