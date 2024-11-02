@@ -68,7 +68,7 @@ rank,title,artist,count,year,id
 66,360,Charli XCX,19,2024,4w2GLmK2wnioVnb5CPQeex
 67,High Road,Koe Wetzel & Jessie Murph,19,2024,1FhgmMvNlh3nJ1Ldc2eE6H
 68,Mmhmm,BigXthaPlug,19,2024,4QTlxavdQGUVitxAvQqqkU
-69,Carnival,¥$: Kanye West & Ty Dolla $ign,19,2024,n/a
+69,Carnival,¥$: Kanye West & Ty Dolla $ign,19,2024,4OssqCixV2Xsxd43wMIQyS
 70,Please Please Please,Sabrina Carpenter,19,2024,5N3hjp1WNayUPZrA8kJmJP
 71,One Of The Girls,"The Weeknd, JENNIE & Lily Rose Depp",19,2024,7CyPwkp0oE8Ro9Dd5CUDjW
 72,La Diabla,Xavi,19,2024,0R6NfOiLzLj4O5VbYSJAjf
@@ -258,7 +258,7 @@ rank,title,artist,count,year,id
 56,abcdefu,GAYLE,21,2022,4fouWK6XVHhzl78KzQ1UjL
 57,Glimpse Of Us,Joji,20,2022,6xGruZOHLs39ZbVccQTuPZ
 58,We Don't Talk About Bruno,"Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast",20,2022,52xJxFP6TqMuO4Yt0eOkMz
-59,Hrs And Hrs,Muni Long,20,2022,n/a
+59,Hrs And Hrs,Muni Long,20,2022,3ncmoWTwJgx63LwMTyBCXf
 60,Hotel Lobby (Unc And Phew),Quavo & Takeoff,20,2022,4vVjPTApwXZwB2H3mBq3ml
 61,Bones,Imagine Dragons,20,2022,54ipXppHLA8U4yqpOFTUhr
 62,Bam Bam,Camila Cabello Featuring Ed Sheeran,20,2022,2DB4DdfCFMw1iaR6JaR03a
@@ -522,7 +522,7 @@ rank,title,artist,count,year,id
 20,Eastside,"benny blanco, Halsey & Khalid",29,2019,7FGq80cy8juXBCD2nrqdWU
 21,Trampoline,SHAED,29,2019,2ez6qvOTHKeI3ss80NGqnI
 22,Look Back At It,A Boogie Wit da Hoodie,29,2019,3Ol2xnObFdKV9pmRD2t9x8
-23,Ran$om,Lil Tecca,29,2019,n/a
+23,Ran$om,Lil Tecca,29,2019,2WsuSYJNXGKXVYkHPnq2yp
 24,No Guidance,Chris Brown Featuring Drake,28,2019,6XHVuErjQ4XNm6nDPVCxVX
 25,Middle Child,J. Cole,28,2019,2JvzF1RMd7lE3KmFlsyZD8
 26,Whiskey Glasses,Morgan Wallen,27,2019,57TEkZN3f84tFJFHFrD4pO
@@ -897,7 +897,7 @@ rank,title,artist,count,year,id
 95,Hands To Myself,Selena Gomez,19,2016,1LoriJC05IrHIDwj3q0KC1
 96,Do You Mind,"DJ Khaled Featuring Nicki Minaj, Chris Brown, August Alsina, Jeremih, Future & Rick Ross",19,2016,4VJ7mnW4wjjIgPBM6KWvPu
 97,Die A Happy Man,Thomas Rhett,19,2016,5kNe7PE09d6Kvw5pAsx23n
-98,1 Night,Lil Yachty,19,2016,n/a
+98,1 Night,Lil Yachty,19,2016,40yJGQyEaBbIkXpwMFkXip
 99,Down In The DM,Yo Gotti Featuring Nicki Minaj,19,2016,5w1vhNA2OEWUQ371QzyMmM
 0,Uptown Funk!,Mark Ronson Featuring Bruno Mars,50,2015,32OlwWuMpZ6b0aN2RZOeMS
 1,Shut Up And Dance,WALK THE MOON,48,2015,4kbj5MwxO1bq9wjT5g9HaA
@@ -1180,7 +1180,7 @@ rank,title,artist,count,year,id
 78,F**kin Problems,"A$AP Rocky Featuring Drake, 2 Chainz & Kendrick Lamar",20,2013,4X5f3vT8MRuXF68pfjNte5
 79,Aw Naw,Chris Young,20,2013,53Dj5PCDhb22qWqmre3YQs
 80,Red Nose,Sage The Gemini,20,2013,1KIQ0RscHwxXPJUvhuO5Bl
-81,Rich As F**k,Lil Wayne Featuring 2 Chainz,20,2013,n/a
+81,Rich As F**k,Lil Wayne Featuring 2 Chainz,20,2013,3SShjQBczSt1HMpWA9zbwE
 82,Bugatti,Ace Hood Featuring Future & Rick Ross,20,2013,08ljt6NCNAgewQaMya1URa
 83,Anywhere With You,Jake Owen,20,2013,2yWtLaPCOUDyi7f1lOXCn5
 84,Beat This Summer,Brad Paisley,20,2013,2EUHzmBZux7SSra71cGkIB
@@ -1288,7 +1288,7 @@ rank,title,artist,count,year,id
 86,Take It To The Head,"DJ Khaled Featuring Chris Brown, Rick Ross, Nicki Minaj & Lil Wayne",20,2012,2lD4LsB3iQVnddkVM2RFAl
 87,Bangarang,Skrillex Featuring Sirah,20,2012,6VRhkROS2SZHGlp0pxndbJ
 88,Take A Little Ride,Jason Aldean,20,2012,1KZ13No14RifaK2e9ii8da
-89,Cashin' Out,Ca$h Out,20,2012,n/a
+89,Cashin' Out,Ca$h Out,20,2012,1POAx4NMLOBPVKZUSsBh92
 90,Turn Up The Music,Chris Brown,20,2012,1RMRkCn07y2xtBip9DzwmC
 91,UP!,LoveRance Featuring IamSu & Skipper or 50 Cent,20,2012,1lqKgoo11HKUoMpbouC7I4
 92,Climax,Usher,20,2012,5pyVqlqThcxI7tPDjHIzPh
@@ -1755,7 +1755,7 @@ rank,title,artist,count,year,id
 53,Irreplaceable,Beyonce,21,2007,6RX5iL93VZ5fKmyvNXvF1r
 54,Lost Without U,Robin Thicke,21,2007,4V2F0DZrAXOWq9hkwMMG3x
 55,Good Directions,Billy Currington,20,2007,7GQjJEwqlp6m5HNWVQd6OR
-56,I'm A Flirt,R. Kelly Or Bow Wow (Featuring T.I. & T-Pain),20,2007,n/a
+56,I'm A Flirt,R. Kelly Or Bow Wow (Featuring T.I. & T-Pain),20,2007,6w1DBbA8akxHPiBQ6nAyJq
 57,Hood Figga,Gorilla Zoe,20,2007,1OeTY85K4i1I7kNnvESfeb
 58,Go Getta,Young Jeezy Featuring R. Kelly,20,2007,03b1NUHnoavfpLLKcEMfIb
 59,Free And Easy (Down The Road I Go),Dierks Bentley,20,2007,3JrD5PQbOAgGTKhts9Te6d
@@ -1873,7 +1873,7 @@ rank,title,artist,count,year,id
 71,Girl Next Door,Saving Jane,20,2006,4TxdDwdVNpLTcXkCflfuHB
 72,Summertime,Kenny Chesney,20,2006,3cE5ltZFHmBpiS77itKaOM
 73,If You're Going Through Hell (Before The Devil Even Knows),Rodney Atkins,20,2006,7vSn3VNbzOtPebdj6ZSebj
-74,For You I Will (Confidence),Teddy Geiger,20,2006,n/a
+74,For You I Will (Confidence),Teddy Geiger,20,2006,6XpT1tBTqVqx9RfD5jv2Vw
 75,The Diary Of Jane,Breaking Benjamin,20,2006,0faXHILILebCGnJBPU6KJJ
 76,Torn,LeToya,20,2006,1oPArBnq4Lg8WKYWdPZVGO
 77,Beep,The Pussycat Dolls Featuring will.i.am,20,2006,5TXNLJ2EENAt3Tf9MX4kT2
@@ -2274,7 +2274,7 @@ rank,title,artist,count,year,id
 72,Stingy,Ginuwine,20,2002,6De63WRULDaa1fxOyLilnv
 73,I Miss My Friend,Darryl Worley,20,2002,0qnoS5hMZMphvKWi0D2LQh
 74,I Don't Have To Be Me ('til Monday),Steve Azar,20,2002,5v1bA7NmQcQHvH9IDkeeF4
-75,Down 4 U,"Irv Gotti Presents The Inc. Featuring Ja Rule, Ashanti, Charli Baltimore & Vita",20,2002,n/a
+75,Down 4 U,"Irv Gotti Presents The Inc. Featuring Ja Rule, Ashanti, Charli Baltimore & Vita",20,2002,2cTClnXuGnJyGSzY9mhcfp
 76,Here Is Gone,Goo Goo Dolls,20,2002,4KqTGPPmXowMPEoShSVOta
 77,Ten Rounds With Jose Cuervo,Tracy Byrd,20,2002,26J61MmE6YCWqIyROZdEgL
 78,Hella Good,No Doubt,20,2002,6AfLmKXzhEZjwiVPs5jhdV
@@ -2364,7 +2364,7 @@ rank,title,artist,count,year,id
 62,I'm Already There,Lonestar,20,2001,34Vn9nKfztyLco9lJazy4j
 63,More Than That,Backstreet Boys,20,2001,4XRUKxDIn28c7uHEzbGFgj
 64,Where The Blacktop Ends,Keith Urban,20,2001,7qLQR9T8vL638MbPYCDAFk
-65,Oochie Wally,QB Finest Featuring Nas & Bravehearts,20,2001,n/a
+65,Oochie Wally,QB Finest Featuring Nas & Bravehearts,20,2001,6LW69B6PyHbypF62thpSWH
 66,This Is Me,Dream,20,2001,1s8MNZEUhMRlCJiFzHCkTY
 67,Here's To The Night,Eve 6,20,2001,4tgeQrPu5xkrnwErym2JsJ
 68,Heard It All Before,Sunshine Anderson,20,2001,0xikWgPgYN9BEes0ieZ8Co
@@ -2645,7 +2645,7 @@ rank,title,artist,count,year,id
 43,Frozen,Madonna,20,1998,6lknMmJZALXxx7emwwZWLX
 44,My All,Mariah Carey,20,1998,3RSpK5Y0y5tl25qvssrwJ6
 45,Movin' On,Mya Featuring Silkk The Shocker,20,1998,0Z7cJizY93V2SGCpNKYV2j
-46,Come With Me,Puff Daddy Featuring Jimmy Page,20,1998,n/a
+46,Come With Me,Puff Daddy Featuring Jimmy Page,20,1998,4jecEDcnnoLbgdxfnpc76E
 47,"Money, Power & Respect",The Lox [Featuring DMX & Lil' Kim],20,1998,7Ms58r8G6Y0r1XLtpwoGxN
 48,Friend Of Mine,Kelly Price,20,1998,35irxCsC8QXJ1IN0eioD3H
 49,You Only Have To Say You Love Me,Hannah Jones,20,1998,7K766rNA232c6hjmPSzfe2
@@ -2655,7 +2655,7 @@ rank,title,artist,count,year,id
 53,Landslide,Fleetwood Mac,20,1998,5ihS6UUlyQAfmp48eSkxuQ
 54,Raise The Roof,Luke Featuring No Good But So Good,20,1998,0tVDfAiHDgvRyXuVike1Ju
 55,Ava Adore,The Smashing Pumpkins,20,1998,6bVB2MGR7LcotAIB1vfpw6
-56,Love You Down,INOJ/LATHUN,20,1998,n/a
+56,Love You Down,INOJ/LATHUN,20,1998,7tjbm60E0t7SerbiG61cce
 57,You Won't Forget Me,La Bouche,20,1998,5XeQ0rudxvqNA2mJmZBjBK
 58,Ooh La La,Rod Stewart,20,1998,1xQeNjkcWb2at409bfedop
 59,Gone Till November,Wyclef Jean,20,1998,6Gd123r71KDdpH8JRdYvrh
@@ -2686,9 +2686,9 @@ rank,title,artist,count,year,id
 84,I Just Want To Dance With You,George Strait,19,1998,4cdAXfguhQHYFkvuuzye1m
 85,Light In Your Eyes,Blessid Union Of Souls,19,1998,1yckLYhD232gkDZG86QhAn
 86,Lookin' At Me,Mase Featuring Puff Daddy,19,1998,2dieHErJLwG7fOzD8WAtFO
-87,The Party Continues,JD Featuring Da Brat,19,1998,n/a
+87,The Party Continues,JD Featuring Da Brat,19,1998,0zSaR3TpVlqfQzbSCbhWfU
 88,Dangerous,Busta Rhymes,19,1998,2cZuNzaAGNFozlZTxSDU1g
-89,Do Your Thing,7 Mile,19,1998,n/a
+89,Do Your Thing,7 Mile,19,1998,5cL4YD56dTKofCoFrdAK6Y
 90,Never Ever,All Saints,19,1998,7ziHnshbknkpFLDW5yGBjO
 91,Ding-A-Ling,Hi-Town DJs,19,1998,n/a
 92,Whatcha Gone Do?,Link,19,1998,1oPKnJv14YIAbEw4Xw1sAN
@@ -2722,7 +2722,7 @@ rank,title,artist,count,year,id
 20,Semi-Charmed Life,Third Eye Blind,26,1997,42et6fnHCw1HIPSrdPprMl
 21,Call Me,Le Click,25,1997,7eKhvnkvfK4sSaflFafIne
 22,In My Bed,Dru Hill,25,1997,2MflYZf6aZzOxQWX0O7Brc
-23,ESPN Presents The Jock Jam,Various Artists,25,1997,n/a
+23,ESPN Presents The Jock Jam,Various Artists,25,1997,683hRieVmYdAhVA1DkjSAk
 24,Invisible Man,98 Degrees,25,1997,5EOGZmuU56m3fFhqr4HCLe
 25,G.H.E.T.T.O.U.T.,Changing Faces,25,1997,13XNjh0UY5LBsICcoHUdxl
 26,Ooh Aah... Just A Little Bit,Gina G,25,1997,7kyMLaXepcGHIrsLqoiTB8
@@ -2749,7 +2749,7 @@ rank,title,artist,count,year,id
 47,What's On Tonight,Montell Jordan,20,1997,1q3C05jegoKRuU1biZtVxv
 48,Up Jumps Da Boogie,Magoo And Timbaland,20,1997,4iIba3ZoAxi5TrDs11O5ZO
 49,Hypnotize,The Notorious B.I.G.,20,1997,7KwZNVEaqikRSBSpyhXK2j
-50,To The Moon And Back,Savage Garden,20,1997,n/a
+50,To The Moon And Back,Savage Garden,20,1997,6FRtjadDsEhZIQIlh1loEM
 51,Here's Your Sign (Get The Picture),Bill Engvall With Special Guest Travis Tritt,20,1997,7BDQ7lfI6JBLDr7ucZcScv
 52,Gotham City,R. Kelly,20,1997,1OCFE38LYUf22diBKJ8Z4W
 53,"Go The Distance (From ""Hercules"")",Michael Bolton,20,1997,3hS5RCp5EE1wUiiE7f8dM1
@@ -2767,7 +2767,7 @@ rank,title,artist,count,year,id
 65,Firestarter,The Prodigy,20,1997,1auX4gkGe7hbrOH0BXdpV4
 66,When I Die,No Mercy,20,1997,4z1IYRhVpbLCBaqZXYIl66
 67,Let Me Clear My Throat,DJ Kool,20,1997,7k3sn5TIQ3qRVJ8FPTG9kx
-68,Can U Feel It,3rd Party,20,1997,n/a
+68,Can U Feel It,3rd Party,20,1997,
 69,Your Woman,White Town,20,1997,3UBItNVbFQiVC5hBQlBvnr
 70,A Little Bit Of Ecstasy,Jocelyn Enriquez,20,1997,2mh6vBBled0iSZ56uJju2A
 71,All By Myself,Celine Dion,20,1997,0gsl92EMIScPGV1AU35nuD
@@ -2782,14 +2782,14 @@ rank,title,artist,count,year,id
 80,"Look Into My Eyes (From ""Batman & Robin"")",Bone Thugs-N-Harmony,20,1997,4ISp82TYvp9G3HTA2dPzQu
 81,Coco Jamboo,Mr. President,20,1997,5fRvePkRGdpn2nKacG7I6d
 82,You Make Me Wanna...,Usher,19,1997,47TqCCnEliDp8NRDyIQoQq
-83,My Baby Daddy,B-Rock & The Bizz,19,1997,n/a
+83,My Baby Daddy,B-Rock & The Bizz,19,1997,3sFOja0FKurzewYUvySXRT
 84,Havana,Kenny G,19,1997,3h94vp5QyqopAwVolKhM5l
 85,Come On,Billy Lawrence Featuring MC Lyte,19,1997,7L6ltzifwphuvgAjKQH4Y7
 86,On & On,Erykah Badu,19,1997,4Na2HfNSr58chvfX69fy36
 87,Smile,Scarface Featuring 2Pac & Johnny P,19,1997,2wxO3ZydJTZRi4Bbc02q7i
 88,Free,Ultra Nate,19,1997,2mkdZTHKimOJ86Hg0RWSKc
 89,I Shot The Sheriff,Warren G,19,1997,5uC1sC1OmVKfU0m5opiY25
-90,Have A Little Mercy,4.0,19,1997,7sZrgx3rQTRjLHsGT8B9Yu
+90,Have A Little Mercy,4,19,1997,7sZrgx3rQTRjLHsGT8B9Yu
 91,No Diggity,BLACKstreet (Featuring Dr. Dre),19,1997,6MdqqkQ8sSC0WB4i8PyRuQ
 92,Big Daddy,Hev-D,19,1997,1W9F8VPigP4dYlg1apN0gl
 93,"I Believe In You And Me (From ""The Preacher's Wife"")",Whitney Houston,19,1997,1kwNHkKXJ4c4MchgATAOBJ
@@ -2876,7 +2876,7 @@ rank,title,artist,count,year,id
 74,Use Your Heart,SWV,20,1996,3e2Bo9TD1mtlqysEJa7Mep
 75,Blue,LeAnn Rimes,20,1996,1g5EcKDECPxeI7kgkvcbxm
 76,"Touch Myself (From ""Fled"")",T-Boz,20,1996,1qHj9v76opZtAIwKhLzFtr
-77,"Theme From Mission: Impossible (From ""Mission: Impossible"")",Adam Clayton & Larry Mullen,20,1996,n/a
+77,"Theme From Mission: Impossible (From ""Mission: Impossible"")",Adam Clayton & Larry Mullen,20,1996,1FL7eUG80aeUeyMO2N4btN
 78,Who Do U Love,Deborah Cox,20,1996,54lhKZ69xX8TeHRgWNU3rU
 79,Can't Get You Off My Mind,Lenny Kravitz,20,1996,7bk6iZ5dsrMySXB0aVFYXO
 80,"Why Does It Hurt So Bad (From ""Waiting To Exhale"")",Whitney Houston,20,1996,5DgNGI95SbwM64C4apE6Or
@@ -3374,7 +3374,7 @@ rank,title,artist,count,year,id
 72,Fading Like A Flower (Every Time You Leave),Roxette,18,1991,7qSd3WHSPUtmt6c36pwJaY
 73,I Touch Myself,Divinyls,18,1991,6oNvmplQGUkmAh441Teows
 74,Summertime,D.J. Jazzy Jeff & The Fresh Prince,18,1991,20XdEFyaUR9C7aDIdq2OAd
-75,Written All Over Your Face,The Rude Boys,18,1991,n/a
+75,Written All Over Your Face,The Rude Boys,18,1991,23QEnDSZOxgdzcZYQRs7LY
 76,Sadeness Part 1,Enigma,18,1991,3MVm36ouM56jbP5rORxbVy
 77,Piece Of My Heart,Tara Kemp,18,1991,1jRAg7uqdsm5VYKKeEVKVd
 78,Gonna Make You Sweat (Everybody Dance Now),C+C Music Factory,18,1991,7eheoW4hxrH51ww2QePVwF
@@ -3390,13 +3390,13 @@ rank,title,artist,count,year,id
 88,Mercy Mercy Me (The Ecology)/I Want You,Robert Palmer,17,1991,6hca73V4uCdpivMbukjMZL
 89,Silent Lucidity,Queensryche,17,1991,6OSyCAmXT4Gkd3OQ2aPOaF
 90,Playground,Another Bad Creation,17,1991,1rJpT4AoSEMTngT6mSZw36
-91,P.A.S.S.I.O.N.,Rhythm Syndicate,17,1991,n/a
+91,P.A.S.S.I.O.N.,Rhythm Syndicate,17,1991,3X6fhK1O4pVPJhvrhgNngO
 92,The Motown Song,Rod Stewart,17,1991,6SxbEd5bMcRwgYwlBJ3aT0
 93,Love Is A Wonderful Thing,Michael Bolton,17,1991,2LCIRBYUBMFy9hL81qthi1
 94,Never Gonna Let You Down,Surface,17,1991,4V0s4tCAluvZWPEAIodihi
 95,More Than Ever,Nelson,17,1991,4nDjw5rDm2H7dIvEyrIABn
 96,Gypsy Woman (She's Homeless),Crystal Waters,16,1991,1SShxVVBeZBCY7WddnksPz
-97,Going Through The Motions,Aftershock,16,1991,n/a
+97,Going Through The Motions,Aftershock,16,1991,3X6fhK1O4pVPJhvrhgNngO
 98,She Talks To Angels,The Black Crowes,16,1991,5NK8jad728pj6YeqM5VJD4
 99,You Don't Have To Go Home Tonight,The Triplets,16,1991,6fQ8nyAK4ZhoCif58okkns
 0,Hold On,Wilson Phillips,50,1990,4VZDv8sASBS8UruUBGTFdk
@@ -3432,7 +3432,7 @@ rank,title,artist,count,year,id
 30,The Ballad Of Jayne,L.A. Guns,22,1990,0gTEvnqaTPmrDvzbKZtQuw
 31,If U Were Mine,The U-Krew,22,1990,n/a
 32,"Blaze Of Glory (From ""Young Guns II"")",Jon Bon Jovi,21,1990,1sUTfgduT0WIQO8kXKXxLC
-33,Girls Nite Out,Tyler Collins,21,1990,n/a
+33,Girls Nite Out,Tyler Collins,21,1990,5r5F5GJDlalgPytZD4DjWB
 34,The Heart Of The Matter,Don Henley,21,1990,7jZ4UZAmg006Qx3rVuF7JI
 35,Epic,Faith No More,21,1990,4ReyTz0y3TGkX48wO3Llot
 36,Make You Sweat,Keith Sweat,21,1990,08R1hMx1ARs5s9ZkscPnnu
@@ -3470,7 +3470,7 @@ rank,title,artist,count,year,id
 68,Whip Appeal,Babyface,18,1990,4D13ulAZI1V7PG7Zg1Ar7r
 69,She Ain't Worth It,Glenn Medeiros Featuring Bobby Brown,18,1990,3Mn0WiIUimQrekCDxzaCGV
 70,Roam,The B-52s,18,1990,5fqcIHU6DhQtFKVO5XSdQs
-71,C'mon And Get My Love,D-Mob Introducing Cathy Dennis,18,1990,n/a
+71,C'mon And Get My Love,D-Mob Introducing Cathy Dennis,18,1990,2M3YldsyQfOixYWqwagtse
 72,"Baby, It's Tonight",Jude Cole,18,1990,0Cnb92tJbXRrqi1FhfyPpY
 73,Possession,Bad English,17,1990,4c9pXEaHBDpQT2HnXOUult
 74,Sometimes She Cries,Warrant,17,1990,0m5RdyFFcOKhut3sGkeWHG
@@ -3496,7 +3496,7 @@ rank,title,artist,count,year,id
 94,Groove Is In The Heart,Deee-Lite,16,1990,2He3NOyqtLNE3RQPpeDdSb
 95,This Old Heart Of Mine,Rod Stewart With Ronald Isley,16,1990,1JJNgkcjMOBk8py4nUmxTw
 96,The Way You Do The Things You Do,UB40,16,1990,6ozp716QFraV8OrewK6ln4
-97,We're All In the Same Gang,The West Coast Rap All-Stars,16,1990,n/a
+97,We're All In the Same Gang,The West Coast Rap All-Stars,16,1990,62fQHIiTsimptHHliO8nOn
 98,Heartbeat,Seduction,16,1990,3PFFwk0K0TrFmBC9ZEZaeg
 99,Alright,Janet Jackson,16,1990,63W4sfeRTTiNKFLAzUJHFe
 0,Love Song,The Cure,31,1989,3vo3Nvj3DCiMg3e61oy8js
@@ -3507,8 +3507,8 @@ rank,title,artist,count,year,id
 5,Girl You Know It's True,Milli Vanilli,25,1989,6CTnIURom7GvzLqXuFHrXA
 6,Buffalo Stance,Neneh Cherry,24,1989,3XWgwgbWDI56mf1Wl3cLzb
 7,Close My Eyes Forever,Lita Ford (Duet With Ozzy Osbourne),24,1989,43thLwzSasUUZEYjYPeJh3
-8,Thinking Of You,SaFire,23,1989,n/a
-9,Where Are You Now?,Jimmy Harnen With Synch,23,1989,n/a
+8,Thinking Of You,SaFire,23,1989,62fQHIiTsimptHHliO8nOn
+9,Where Are You Now?,Jimmy Harnen With Synch,23,1989,5jY8wzK12444hBBfxXk4lT
 10,If I Could Turn Back Time,Cher,23,1989,6mYrhCAGWzTdF8QnKuchXM
 11,Bust A Move,Young M.C.,23,1989,3IeCYkdKI55mNMl2o4vX0k
 12,If You Don't Know Me By Now,Simply Red,22,1989,7DFawVSjI88xR9mjnWwURg
@@ -3526,7 +3526,7 @@ rank,title,artist,count,year,id
 24,Right Here Waiting,Richard Marx,21,1989,4LFwNJWoj74Yd71fIr1W8x
 25,Baby Don't Forget My Number,Milli Vanilli,21,1989,3t4EJY6cTsb6FyP1EQzajK
 26,My Heart Can't Tell You No,Rod Stewart,20,1989,6ektpnOn2Df6kOdKSWIe0n
-27,Second Chance,Thirty Eight Special,20,1989,n/a
+27,Second Chance,Thirty Eight Special,20,1989,0RAn8LOs5QVMLy2xH30bUj
 28,Keep On Movin',Soul II Soul (Featuring Caron Wheeler),20,1989,7upgDi9C0pQn9HZzGfksJq
 29,Toy Soldiers,Martika,20,1989,4jh9olf0OKCokpzxSyLeJx
 30,So Alive,Love And Rockets,20,1989,7pfP8Z9M9KRUtzTLcnjem5
@@ -3653,7 +3653,7 @@ rank,title,artist,count,year,id
 51,Rush Hour,Jane Wiedlin,19,1988,3zwxnzanbTdJhsrR8JvT3j
 52,Pamela,Toto,19,1988,3LFdvM7nIV8t02zyhYLvJo
 53,Promise Me,The Cover Girls,19,1988,0QciY6CzknfKHZD9h0Oahg
-54,1-2-3,Gloria Estefan & Miami Sound Machine,19,1988,0AO6H4lEJhuqWcmIebNhKO
+54,1/2/2003,Gloria Estefan & Miami Sound Machine,19,1988,0AO6H4lEJhuqWcmIebNhKO
 55,Here With Me,REO Speedwagon,19,1988,60iNCdO3iDf3YcMb63yPck
 56,Push It,Salt-N-Pepa,19,1988,6sT9MWlJManry3EQwf4V80
 57,She's Like The Wind,Patrick Swayze (Featuring Wendy Fraser),19,1988,7BdXRaSlGAzhySfuW3y8h5
@@ -3728,7 +3728,7 @@ rank,title,artist,count,year,id
 26,Midnight Blue,Lou Gramm,20,1987,4iQZi2sMZlbTpcUlo5YGBf
 27,Let Me Be The One,Expose,20,1987,3h9RfFtjIw2Yb6Blogxnm4
 28,Breakout,Swing Out Sister,20,1987,5JsIknb4lyIKQCytjv0Uw5
-29,Mary's Prayer,Danny Wilson,20,1987,n/a
+29,Mary's Prayer,Danny Wilson,20,1987,0QvqgyCLlOR9D3PI6EFRiI
 30,I'd Still Say Yes,Klymaxx,20,1987,1wbM7WXEKWPxqwFg3iR6BU
 31,"I Want Your Sex (From ""Beverly Hills Cop II"")",George Michael,20,1987,6QnFHieoch6U9J8zfv6hml
 32,Head To Toe,Lisa Lisa And Cult Jam,20,1987,5VzqFMyPERPObMOzZdELuK
@@ -3879,8 +3879,8 @@ rank,title,artist,count,year,id
 77,Dancing On The Ceiling,Lionel Richie,17,1986,0snPJPxkk0MbTc0xeUvAPt
 78,Beat's So Lonely,Charlie Sexton,17,1986,6LQvtsFHnhn28rW4qU8UTB
 79,One Step Closer To You,Gavin Christopher,17,1986,6nHtta2jcgtkh9KAfrNjzK
-80,Take It Easy,Andy Taylor,17,1986,n/a
-81,Like No Other Night,Thirty Eight Special,16,1986,n/a
+80,Take It Easy,Andy Taylor,17,1986,7hxIL3QzWSJbvV4cHhMzcg
+81,Like No Other Night,Thirty Eight Special,16,1986,7FMxqeJ5S5ajkkLlEZ9fL2
 82,Missionary Man,Eurythmics,16,1986,1LgZRmGoSyiOOWxjTjMJy0
 83,Walk This Way,Run-D.M.C.,16,1986,6qUEOWqOzu1rLPUPQ1ECpx
 84,No Easy Way Out,Robert Tepper,16,1986,5bnMKUXkMfYVXW8FjvFTuV
@@ -3916,7 +3916,7 @@ rank,title,artist,count,year,id
 14,Missing You,Diana Ross,22,1985,0jVfjWK9DUc5ShqwwPADyp
 15,Money For Nothing,Dire Straits,22,1985,4yqtwO7MQIIXqoiRBPHAgR
 16,Forever,Kenny Loggins,22,1985,23KhPfX1omMxmfw4TjvfAq
-17,Lover Girl,Teena Marie,21,1985,n/a
+17,Lover Girl,Teena Marie,21,1985,6JGEFDAbkolVtylkQfnnom
 18,Crazy For You,Madonna,21,1985,6G7PVlifniapyhDCmWS2VM
 19,I Wonder If I Take You Home,Lisa Lisa And Clult Jam With Full Force,21,1985,3sRCesHh424gmCji7Fz9Gm
 20,Voices Carry,'Til Tuesday,21,1985,0ZYf6N5eBeXStMri0mf3DZ
@@ -3946,7 +3946,7 @@ rank,title,artist,count,year,id
 44,Freeway Of Love,Aretha Franklin,19,1985,0lpIVCLNQRBKffcRRNrHyh
 45,Fresh,Kool & The Gang,19,1985,1mMYaXpT65iZDtvfRA9EkE
 46,Who's Holding Donna Now,Debarge,19,1985,66rdGSb6FMm0neFXxmJdPQ
-47,Careless Whisper,Wham! Featuring George Michael,19,1985,n/a
+47,Careless Whisper,Wham! Featuring George Michael,19,1985,6KsgCYcZKPcBRDNGhiZWRR
 48,Through the Fire,Chaka Khan,19,1985,7gh2v4IHnxdiwSgA6xluhe
 49,Lonely Ol' Night,John Mellencamp,19,1985,0TBMx8wWJkwSEVSOJUn21e
 50,Axel F,Harold Faltermeyer,19,1985,2kgqupahrJpYB4r1poTXEY
@@ -3996,7 +3996,7 @@ rank,title,artist,count,year,id
 94,So In Love,Orchestral Manoeuvres In The Dark,17,1985,1D2QnxvMOac95EG9C0KbsJ
 95,Cry,Godley & Creme,17,1985,3XfCNac1soQxgfNen0D0dN
 96,Miami Vice Theme,Jan Hammer,17,1985,1biP5gM7Le8S3E7GJEKgXC
-97,Dangerous,Natalie Cole,17,1985,n/a
+97,Dangerous,Natalie Cole,17,1985,6a4B6Jyk6dG6wgsPlQp2W9
 98,High On You,Survivor,17,1985,0kly0FygSDXVbvbXxsZ31S
 99,You Belong To The City,Glenn Frey,16,1985,0b8eSsBka9epA2J0wnPMax
 0,Borderline,Madonna,30,1984,4FMNpPI7mkhdeFCCk6fZiE
@@ -4062,7 +4062,7 @@ rank,title,artist,count,year,id
 60,You Might Think,The Cars,17,1984,35wVRTJlUu2kDkqXFegOKt
 61,Stay The Night,Chicago,17,1984,0siySPc0ooo4rNTdwaoXM1
 62,I Feel For You,Chaka Khan,17,1984,5yR9u8QiOt8hJaddv32oo7
-63,Romancing The Stone,Eddy Grant,17,1984,n/a
+63,Romancing The Stone,Eddy Grant,17,1984,4I4lFg0vyxd043KXXBlpDL
 64,If This Is It,Huey Lewis & The News,17,1984,2pAdtQuiEVGr7nOXGiv7t4
 65,"Run, Runaway",Slade,17,1984,3ZiK1M9FDWHhgG180bD6DQ
 66,When You Close Your Eyes,Night Ranger,17,1984,0FoB9BAV7B2Kv6NxOFZtSO
@@ -4091,7 +4091,7 @@ rank,title,artist,count,year,id
 89,Rock You Like A Hurricane,Scorpions,16,1984,58XWGx7KNNkKneHdprcprX
 90,Karma Chameleon,Culture Club,16,1984,2wSAWEYUHkt92X4SBAPqZE
 91,Got A Hold On Me,Christine McVie,15,1984,0FCgqHNdcbhGIEmU8r6ZF1
-92,10-9-8,Face To Face,15,1984,5EuHpH5tpXkXpGHt8Zlafa
+92,10/9/2008,Face To Face,15,1984,5EuHpH5tpXkXpGHt8Zlafa
 93,Girls,Dwight Twilley,15,1984,34fM8khi0bNYXMzIBAToxj
 94,The Lucky One,Laura Branigan,15,1984,5WEqLAkxFbCF5pKWME9sQ9
 95,A Fine Fine Day,Tony Carey,15,1984,5091oN6DGFSX8vfZsJyJij
@@ -4144,7 +4144,7 @@ rank,title,artist,count,year,id
 42,Stand Back,Stevie Nicks,19,1983,6sleEAnBH0sZMe0pOQNidG
 43,Shame On The Moon,Bob Seger & The Silver Bullet Band,19,1983,1Gxaks4MTbjMCAQ20rx4Iy
 44,Straight From The Heart,Bryan Adams,19,1983,5eaK7PLGwyDXmHfTdWZZuE
-45,True,Spandau Ballet,18,1983,10I09MLZCY4pK37XxAfkw0
+45,TRUE,Spandau Ballet,18,1983,10I09MLZCY4pK37XxAfkw0
 46,Tell Her About It,Billy Joel,18,1983,6kCJMxv445L2okuTiou1fR
 47,China Girl,David Bowie,18,1983,5Ei9o2fHEnfHb84YrPuz4v
 48,Delirious,Prince,18,1983,5zWhtlFS3w52HjN4ayOUgR
@@ -4248,7 +4248,7 @@ rank,title,artist,count,year,id
 46,Empty Garden (Hey Hey Johnny),Elton John,17,1982,01PjrDX13iIjeHc5iJZmb3
 47,Genius Of Love,Tom Tom Club,17,1982,6UBQONiLH8kNmmB8UrV2Ef
 48,Get Down On It,Kool & The Gang,17,1982,2je56j0xuoTi1gYkLLMlJU
-49,Love Plus One,Haircut One Hundred,17,1982,n/a
+49,Love Plus One,Haircut One Hundred,17,1982,4vwLjB2NRtl9b34jRe6cWd
 50,Heart Attack,Olivia Newton-John,17,1982,4i8ndPX530q3xSslpHeXz8
 51,Hold Me,Fleetwood Mac,17,1982,4kRMsLX7bJqjIfK44qJ9h6
 52,Hot In The City,Billy Idol,17,1982,5LeDMHIZ5YDZ2b1VOcYVcG
@@ -4355,7 +4355,7 @@ rank,title,artist,count,year,id
 53,A Little In Love,Cliff Richard,19,1981,6IXSfTzUjEsKc9iOvDkIx4
 54,The One That You Love,Air Supply,19,1981,3FDAd5vW4P7xe1GBNOLyfD
 55,"She's A Bad Mama Jama (She's Built, She's Stacked)",Carl Carlton,19,1981,2R0zbd80CqwoB0ORDCqDoK
-56,The Theme From Hill Street Blues,Mike Post featuring Larry Carlton,19,1981,n/a
+56,The Theme From Hill Street Blues,Mike Post featuring Larry Carlton,19,1981,51p3jvvaTRllGIxdmRVnRr
 57,Sweetheart,Franke & The Knockouts,19,1981,0D2UIFvpE0xb5wEgWrpps2
 58,The Tide Is High,Blondie,19,1981,165NAtd2DRPKNQ6EVY0VG9
 59,The Best Of Times,Styx,19,1981,7GRUpcvSQM9HrnC2CjYPG4
@@ -4388,7 +4388,7 @@ rank,title,artist,count,year,id
 86,Love On A Two Way Street,Stacy Lattisaw,17,1981,1UGnjirP3yLwH8HemYj4i6
 87,Watching The Wheels,John Lennon,17,1981,4fKhRRYn7F5shZItjJkPJU
 88,America,Neil Diamond,17,1981,5mY04rUWixYG9amFzMJDhI
-89,Really Wanna Know You,Gary Wright,17,1981,n/a
+89,Really Wanna Know You,Gary Wright,17,1981,672L8kwlwJu5w8D6MWyvDC
 90,Wasn't That A Party,The Rovers,17,1981,1hTspCloB6MCIRQUJxmp74
 91,The Voice,The Moody Blues,17,1981,0iGNd4z2m80OjE2JcWmBSs
 92,I Can't Stand It,Eric Clapton And His Band,17,1981,4nn8lowQWN8vQBwE7X4Nt2
@@ -4476,7 +4476,7 @@ rank,title,artist,count,year,id
 74,JoJo,Boz Scaggs,17,1980,3Liswfbb32U80A9eryPikM
 75,Xanadu,Olivia Newton-John/Electric Light Orchestra,17,1980,4zdspHPxpExPiU8RolxBUH
 76,She's Out Of My Life,Michael Jackson,16,1980,6NGsHLZYGVAkXTFr75WWnn
-77,Dreaming,Cliff Richard,16,1980,n/a
+77,Dreaming,Cliff Richard,16,1980,61iObLkVe5H3qhBHHbHD6x
 78,Theme From The Dukes Of Hazzard (Good Ol' Boys),Waylon,16,1980,4zxjGksj1DYHmEUvGh8UqT
 79,You Shook Me All Night Long,AC/DC,16,1980,2SiXAy7TuUkycRVbbWDEpo
 80,Three Times In Love,Tommy James,16,1980,4sBgUV5h0dKboz5hvrQUsB
@@ -4488,7 +4488,7 @@ rank,title,artist,count,year,id
 86,Fire Lake,Bob Seger,16,1980,2fZw0ya0oI4pXsjkB0NBHs
 87,Do That To Me One More Time,Captain & Tennille,16,1980,0m4jVVZrsv0bLkAr1uM6UG
 88,All Over The World,Electric Light Orchestra,16,1980,7psAMS9VACNOP4kmPbRqXY
-89,All Night Long,Joe Walsh,16,1980,n/a
+89,All Night Long,Joe Walsh,16,1980,36psUsoODcqVG52lQIzDNy
 90,How Do I Make You,Linda Ronstadt,16,1980,2WX2HSBKkcKVvqTukHZS22
 91,Without Your Love,Roger Daltrey,16,1980,42MVxFxdk3CXuIxLnozyoF
 92,I Can't Tell You Why,Eagles,16,1980,02BsTeJE4q5gWOTt58ur5U
