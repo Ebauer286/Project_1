@@ -5,3 +5,4 @@ The following weeks did not have Billboard data and were therefore not included:
   -1989-03-11
 Some songs at the end of the Top 100 lists had ties therefore some songs were cut off in favor of the first song to hit the lowest count on the top 100
 Aproximately two dozen song ID's could not be found when cross referencing the Billboard to the Spotify lists and therefore were removed from the data set
+All analysis conclusions are drawn within the parameters of Spotify data. 
