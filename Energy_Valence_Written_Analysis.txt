@@ -1,0 +1,24 @@
+Spotify Analysis:
+
+
+ENERGY ANALYSIS
+Energy: Energy trends in music from 1980 to 2024 showcase an overall upward trend with 2 distinct peak and valley cycles. Starting at it's lowest point in 1980, between 1983 - 1993 we see the first peak and valley with two peaks in 1984 and 1990, dropping down in 1993. Over the next 18 years there is a positive trend in energy levels within music leading to the top peak in 2010 at .750, before the data starts trending downward til present day.
+Energy peak year 2010 - 
+Singles:I like it Enrique Iglesias, OMG Usher
+Albums:
+Katy Perry: Teenage Dream Album | Lady Gaga: The Fame Monster (Bad Romance) | Kesha: Animal Album (Tik Tok)
+Valence 2010 (.57 right in the middle of the range)
+Danceability 2010 (.64 also right in the middle of the range)
+Tempo: 117 on the very low end
+Loudness: also peaked in 2010
+
+Energy Definition: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy
+
+VALENCE ANALYSIS
+Since 1980 Valence, which describes the musical positiveness conveyed by a track has steadily declined over time with the highest peak in 1985 (Energy and Tempo were slightly above the average rate in 85), reaching its lowest point in 2018 followed by a slight increase over the last 6 years, but still within the general decades over time decline. 
+2018 events: Politics: Trumps 2nd year in office, Brett Kavanaugh SC battle, Democrats won the House back, John McCain, Barbara Bush and George HW Bush all passed away, Climate: most destructive year of Wildfires in California, major UN report on CLimate Change/heating of the planet Culture: #MeToo movement went global, major data mining Facebook scandal, mass shootings in FLorida, Texas and SoCal, Pittsburgh synagogue 
+https://www.history.com/topics/21st-century/2018-events
+
+
+General conclusions -
+No real relation between tempo and energy
