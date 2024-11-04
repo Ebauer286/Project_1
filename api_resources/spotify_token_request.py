@@ -9,7 +9,7 @@ https://developer.spotify.com/documentation/web-api/tutorials/getting-started
 
 import requests
 import json
-from spotify_credentials import client_id, client_secret
+from api_resources.spotify_credentials import client_id, client_secret
 from pprint import pprint
 
 url = "https://accounts.spotify.com/api/token"
