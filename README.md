@@ -1,3 +1,5 @@
+### Project 1 
+
 We collected data from the Top 100 Billboard API (https://rapidapi.com/LDVIN/api/billboard-api) and Spotify API's for this project. (https://developer.spotify.com/documentation/web-api) 
 
 This project evaluates song metrics, leveraging the Billboard Hot100 API and Spotify Web API. 
