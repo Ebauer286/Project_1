@@ -5,6 +5,11 @@ This project evaluates song metrics, leveraging the Billboard Hot100 API and Spo
 The top 100 songs per week collected and combined to create lists of top 100 (i.e. most popular) songs per year. For the purposes of this project, the 'most popular' is defined as frequency of appearance in Billboard weekly top 100 song lists. For example if song A appears in 20 out of 52 top 100 weekly lists, and song B appears in 22 out of 52 top 100 weekly lists, then song A is more popular.
 
 
+Primary
+
+
+
+
 
 
 
