@@ -1,17 +1,17 @@
 # Project 1: Analyzing Trends in Popular Music from 1980 to Present Day
 
 ## Table of Contents
-- [Project Overview](#Project-Overview)
--Data Source
--Technologies Used
--Project Structure
--Setup and Installation
--Data Preprocessing
--Analysis and Findings
--Conclusion
--Future Work
--License
-
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Setup and Installation](#setup-and-installation)
+- [Data Preprocessing](#data-preprocessing)
+- [Analysis and Findings](#analysis-and-findings)
+- [Conclusion](#conclusion)
+- [Future Work](#future-work)
+- [License](#license)
+  
 ## Project Overview
 This project analyzes music trends from the 1980s to 2024 using data sourced from [Music API Name]. Key goals:
 
