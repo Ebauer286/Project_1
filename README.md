@@ -7,8 +7,7 @@
 - [Setup and Installation](#setup-and-installation)
 - [Data Preprocessing](#data-preprocessing)
 - [Limitations](#limitations)
-- [Analysis and Findings](#analysis-and-findings)
-- [Conclusion](#conclusion)
+- [Analysis and Conclusions](#analysis-and-conclusions)
 - [License](#license)
   
 ## Project Overview
@@ -55,7 +54,7 @@ pip install -r requirements.txt
 4. Aproximately two dozen song ID's could not be found when cross referencing the Billboard to the Spotify lists and therefore were removed from the data set.
 5. When making our Top 100 songs for each year, we totaled how many weeks the song charted for only that year, which disregards songs that might chart for many weeks, but did so across multiple years. Therefore, the Top 100 Songs we gathered for each year might not be fully representative of the most "popular" music.
 
-## Analysis, Findings, and Conclusion
-Analysis and conclusions can all be found in [Write_Up_Analysis.ipynb](https://github.com/Ebauer286/Project_1/blob/main/Write_Up_Analysis.ipynb)
+## Analysis and Conclusions
+Analysis and conclusions can all be found in [Project_1_Final_Write-Up.ipynb](https://github.com/Ebauer286/Project_1/blob/main/Project_1_Final_Write-Up.ipynb)
 
 ## License
