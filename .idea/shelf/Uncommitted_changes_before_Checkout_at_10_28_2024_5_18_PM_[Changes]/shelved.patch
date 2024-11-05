@@ -1,0 +1,16 @@
+Index: spotify_token_request.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\"\"\"\nNotes on use: create a .py file and name it 'spotify_credentials'. In the file, create two variables named \"client_id\" and \"client_secret\". Save your Spotify ID and Secret code in these variables, as strings.\n\nFollow instructions here to get the Client ID and Client Secret:\nhttps://developer.spotify.com/documentation/web-api/tutorials/getting-started\n\n\"\"\"\n\n\nimport requests\nimport json\nfrom spotify_credentials import client_id, client_secret\nfrom pprint import pprint\n\nurl = \"https://accounts.spotify.com/api/token\"\nheader = {\"Content-Type\": \"application/x-www-form-urlencoded\"}\ndata = {\"grant_type\":\"client_credentials\",\n        \"client_id\" : client_id,\n        \"client_secret\" : client_secret}\n\nr = requests.post(url, data=data, headers=header).json()\n\npprint(r)\n
+===================================================================
+diff --git a/spotify_token_request.py b/spotify_token_request.py
+--- a/spotify_token_request.py	(revision dcba8bfe41d00dbd552b894b921b46671c042902)
++++ b/spotify_token_request.py	(date 1730156755789)
+@@ -6,7 +6,6 @@
+ 
+ """
+ 
+-
+ import requests
+ import json
+ from spotify_credentials import client_id, client_secret
