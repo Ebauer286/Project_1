@@ -12,25 +12,25 @@
 - [License](#license)
   
 ## Project Overview
-This project analyzes music trends from the 1980s to the present day using data sourced from Spotify and Billboard, with the objective to uncover and analyze trends in musical characteristics such as Danceability, Tempo, Energy, Loudness, Valence, Duration, Key, Time Signature and Explicit Content, to answer some questions like Is popular music trending more towards?, Is popular music getting faster?
-Are popular songs getting longer?, Is popular music becoming more explicit?, What trends popular music would we highlight to music executives looking to publish the next big hit?.
-to answer all these questions it was use the top 100 songs per week collected and combined to create lists of top 100 (i.e. most popular) songs per year. For the purposes of this project, the 'most popular' is defined as frequency of appearance in Billboard weekly top 100 song lists. For example if song A appears in 20 out of 52 top 100 weekly lists, and song B appears in 22 out of 52 top 100 weekly lists, then song A is more popular.
+This project analyzes music trends from the 1980s to the present day using data sourced from Spotify and Billboard, with the objective to uncover and analyze trends in musical characteristics such as danceability, tempo, energy, loudness, valence, duration, key, time signature, and explicit content, to answer some questions like: 
+what is popular music trending more towards? Is popular music getting faster? Are popular songs getting longer? Is popular music getting more or less complex/diverse? Is popular music becoming more explicit? What trends popular music would we highlight to music executives looking to publish the next big hit?
+
+To answer all these questions, we gathered the top 100 songs from each week since January of 1980, collected from the Billboard Hot 100, and evaluated the most recurring songs each year to create our own Top 100 Songs chart for each year. 
 
 ## Data Source
 The data was retrieved from Spotify and Billboard, which provides a vast amount of data and trends. Details on how the data was accessed and any specific filters applied are documented here.
-We collected data from the Top 100 Billboard API (https://rapidapi.com/LDVIN/api/billboard-api) and Spotify API's for this project. (https://developer.spotify.com/documentation/web-api) 
+We collected data from the [Billboard Hot 100 API](https://rapidapi.com/LDVIN/api/billboard-api) and [Spotify's API's](https://developer.spotify.com/documentation/web-api) for this project.
 
 ### API Call:
 - (https://rapidapi.com/LDVIN/api/billboard-api)
 - (https://developer.spotify.com/documentation/web-api)
   
 ## Technologies Used
--Programming Languages: Python
--Data Analysis Libraries: Pandas
--Visualization: Matplotlib
--APIs: (https://developer.spotify.com/documentation/web-api) and (https://rapidapi.com/LDVIN/api/billboard-api)
--Other: Jupyter Notebook, requests (for API data fetching)
--This project evaluates song metrics, leveraging the Billboard Hot100 API and Spotify Web API. 
+- Programming Languages: Python
+- Data Analysis Libraries: Pandas
+- Visualization: Matplotlib
+- APIs: (https://developer.spotify.com/documentation/web-api) and (https://rapidapi.com/LDVIN/api/billboard-api)
+- Other: Jupyter Notebook, requests (for API data fetching)
 
 ## Setup and Installation
 1. Clone the repository:
@@ -52,11 +52,10 @@ pip install -r requirements.txt
     - 1984-02-18
     - 1989-03-11
 3. Some songs at the end of the Top 100 lists had ties therefore some songs were cut off in favor of the first song to hit the lowest count on the top 100.
-4. Aproximately two dozen song ID's could not be found when cross referencing the Billboard to the Spotify lists and therefore were removed from the data set
+4. Aproximately two dozen song ID's could not be found when cross referencing the Billboard to the Spotify lists and therefore were removed from the data set.
+5. When making our Top 100 songs for each year, we totaled how many weeks the song charted for only that year, which disregards songs that might chart for many weeks, but did so across multiple years. Therefore, the Top 100 Songs we gathered for each year might not be fully representative of the most "popular" music.
 
-## Analysis and Findings
-
-## Conclusion
-All analysis conclusions are drawn within the parameters of Spotify data. 
+## Analysis, Findings, and Conclusion
+Analysis and conclusions can all be found in [Write_Up_Analysis.ipynb](https://github.com/Ebauer286/Project_1/blob/main/Write_Up_Analysis.ipynb)
 
 ## License
