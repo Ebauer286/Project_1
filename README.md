@@ -33,11 +33,15 @@ We collected data from the [Billboard Hot 100 API](https://rapidapi.com/LDVIN/ap
 
 ## Setup and Installation
 1. Clone the repository:
+```bash
 git clone https://github.com/Ebauer286/Project_1.git
+```
 2. Navigate to the project directory
 cd music-trend-analysis
 3. Install dependencies:
+```bash
 pip install -r requirements.txt
+```
 4. Get the API key from (https://developer.spotify.com/documentation/web-api) and (https://rapidapi.com/LDVIN/api/billboard-api) and add it to your environment variables or config file.
 
 ## Data Preprocessing
